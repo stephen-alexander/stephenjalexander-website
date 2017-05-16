@@ -1,0 +1,21 @@
+#innovation {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#example-img {
+	height: 50%;
+}
+
+.prettyprint {
+	text-align: left;
+	font-size: 12pt;
+	background-color: #fafafa;
+	overflow: hidden;
+}
+
+pre.prettyprint {
+	border: 0px !important;
+}
+
